@@ -1,4 +1,6 @@
 # Chatbot-by-using-chatbotter-package-of-Python
+Steps:
+
 It's a Chatbot that will give you answers based on the data its trained . 
 Actually I have used Chatbot Corpus "english" data sets to train my code.
 You can download that from google itself..**Link:https://github.com/gunthercox/chatterbot-corpus**
